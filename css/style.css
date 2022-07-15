@@ -1,0 +1,102 @@
+/* 
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+  } */
+  
+  .form-signin .form-floating:focus-within {
+      z-index: 2;
+    }
+    
+    .form-signin input[type="email"] {
+      margin-bottom: -1px;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    
+    .form-signin input[type="password"] {
+      margin-bottom: 10px;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+  
+    .form-registration input{
+      margin-bottom: -1px;
+      border-radius: 0;
+    }
+    
+    .container img {
+      /* Clayman */
+      position: absolute;
+      width: 48px;
+      height: 44px;
+      left: 25px;
+      top: 7px;
+      
+      border-radius: 170px;
+    }
+  
+  .carousel-item .carousel-caption{
+  margin-bottom: 200px;
+  }
+  
+  .carousel-caption img{
+    border-radius: 434px;
+    opacity: 1;
+    bottom: 10px;
+    right: 0px;
+    
+    position: absolute;
+    width: 301px;
+    height: 285px;
+  }
+  
+  
+  .carousel-caption p{
+    position: absolute;
+    width: 566px;
+    height: 100px;
+    top: 100px;
+    
+    
+  
+    /* font-family: 'Noto Nastaliq Urdu'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    /* line-height: 50px; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    /* background-color: grey; */
+    background-color: rgba(0,0,0, 0.7);
+    
+    }
+  
+  .carousel-caption h1{
+    position: absolute;
+    width: fit-content;
+    height: 104px;
+    left: 173px;
+    bottom: 250px;
+    top: 120px;
+  
+    /* font-family: 'Noto Nastaliq Urdu'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 160px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    /* background-color: rgba(128,128,128, 0.5); */
+    
+  }
+  
+   
+  
+  
+  
+  
